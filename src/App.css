@@ -1,0 +1,18 @@
+/* .app {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.step {
+  display: none;
+}
+
+.step.active {
+  display: block;
+} */
+/* App.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
